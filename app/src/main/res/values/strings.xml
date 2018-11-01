@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Metas_Amway</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Lecture -->
+    <string name="lecturePlan_list_title">Planes de Lectura</string>
+    <string name="LecturePlan_list_add">Agregar plan de lectura</string>
+    <string name="LecturePlan_list_label">---- Planes en curso ----</string>
+    <!-- LectureList item -->
+    <string name="lecturePlan_item_read">Leidas</string>
+    <string name="lecturePlan_item_toRead">Por leer</string>
+
+    <!-- Projects -->
+    <string name="projects_list_title">Planes de Proyectos</string>
+    <string name="projects_list_add">Agregar plan de proyectos</string>
+    <string name="projects_list_label">---- Planes en curso ----</string>
+    <string name="projects_create_title">Nuevo Plan de Proyectos </string>
+    <string name="projects_create_goal">Proyectos</string>
+    <string name="projects_create_name">Nombre del plan</string>
+    <string name="projects_create_date">Fecha inicial</string>
+
+    <!-- Events -->
+    <string name="events_list_title">Planes de eventos</string>
+    <string name="events_list_add">Agregar plan de eventos</string>
+    <string name="events_list_label">---- Planes en curso ----</string>
+    <string name="events_create_title">Nuevo Plan de Eventos </string>
+    <string name="events_create_goal">Eventos</string>
+    <string name="events_create_name">Nombre del plan</string>
+    <string name="events_create_date">Fecha inicial</string>
+
+    <!-- Audios -->
+    <string name="audio_list_title">Planes de audio</string>
+    <string name="audio_list_add">Agregar plan de audio</string>
+    <string name="audio_list_label">---- Planes en curso ----</string>
+    <string name="audio_create_title">Nuevo Plan de audios </string>
+    <string name="audio_create_goal">Audios</string>
+    <string name="audio_create_name">Nombre del plan</string>
+    <string name="audio_create_date">Fecha inicial</string>
+
+    <!-- Trainig -->
+    <string name="training_list_title">Planes de Entrenameinto</string>
+    <string name="trainig_list_add">Agregar plan de Entrenameinto</string>
+    <string name="trainig_list_label">---- Planes en curso ----</string>
+    <string name="training_create_title">Nuevo Plan de entrenamiento </string>
+    <string name="trainig_create_goal">Entrenamientos</string>
+    <string name="trainig_create_name">Nombre del plan</string>
+    <string name="trainig_create_date">Fecha inicial</string>
+
+    <!-- forgot pwd -->
+    <string name="hint_forgotpwd_email">Correo</string>
+    <string name="btn_send_email">Enviar Correo</string>
+
+    <!-- Log In  -->
+    <string name="login_password">Constraseña</string>
+    <string name="login_btn_ingresar">Ingresar</string>
+    <string name="login_lbl_register">Registrate como cotitular</string>
+    <string name="login_lbl_forgot_pwd">¿Olvidaste la contraseña?</string>
+    <string name="item_history_lastpage">Utlima Pagina :</string>
+    <string name="item_history_date">Fecha :</string>
+
+    <array name="titulares">
+        <item>Titular</item>
+        <item>Cotitular</item>
+    </array>
+
+    <array name="ciudades">
+        <item>Bogota</item>
+        <item>Medellin</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+    </array>
+</resources>
